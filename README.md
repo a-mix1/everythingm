@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-Software Developer with java and python and sql
+I write code and watch football
 
 
 # 💻 Tech Stack:
